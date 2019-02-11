@@ -1,4 +1,4 @@
-# Investment Calclulator
+# Investment Calculator
 
 ## Usage:
 
